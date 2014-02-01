@@ -1,0 +1,6 @@
+[Incomplete/slow]
+3,10,15
+[Missing]
+11,13
+# 13 is _really_ simple if you have arbitrary precision integers, not sure it is worth the effort
+# 15: If you must cross a 20x20 grid, you have to go 20 times right, and 20 times left, counting order. Now it is a combinatronic problem, solvable in one line...
